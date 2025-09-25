@@ -23,6 +23,6 @@
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 知识库 | 训练AI |  |  |  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 快捷键支持 |  | `不太重要的感觉` |  |  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 多数据库 |  | `改一改数据库连接/模型API` |  |  |
-| <kbd>Review</kbd> | <kbd>Basic</kbd> |  |  | `D老师？` |  | [插件开发准则](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/references/extension-guidelines) |
-| <kbd>Test</kbd> | <kbd>Basic</kbd> |  |  | `高级测试（自动化/测试用例）` |  |  |
-| <kbd>Doc</kbd> | <kbd>Basic</kbd> |  |  | `创新点    `<br>`如何量化，图表化（性能/测试覆盖率/准确性etc.）` |  |  |
+| <kbd>Review</kbd> | <kbd>Basic</kbd> | Review文档 |  | `D老师？` |  | [插件开发准则](https://liiked.github.io/VS-Code-Extension-Doc-ZH/#/references/extension-guidelines) |
+| <kbd>Test</kbd> | <kbd>Basic</kbd> | 测试文档 |  | `高级测试（自动化/测试用例）` |  |  |
+| <kbd>Doc</kbd> | <kbd>Basic</kbd> | 论文 |  | `创新点    `<br>`如何量化，图表化（性能/测试覆盖率/准确性etc.）` |  |  |
