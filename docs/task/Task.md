@@ -18,7 +18,7 @@
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 客制化 | 预设常用SQL模板 |  |  |  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 客制化 | 代码规范 |  |  |  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 改表建表C~~R~~UD | 右键操作（如新增表、修改字段、删除索引），无需手动写DDL语句 |  | *着手中* | [qzh13186526261](https://github.com/qzh13186526261) |
-| <kbd>Code</kbd> | <kbd>Advanced</kbd> | AI写SQL |  |  | *着手中* | [rurupa876](https://github.com/rurupa876) |
+| <kbd>Code</kbd> | <kbd>Advanced</kbd> | AI写SQL |  |  | *着手中* | [rurupa876](https://github.com/rurupa876)`浮窗`<br>[laiyk5](https://github.com/laiyk5)  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | AI检查SQL | 查询优化辅助：自动分析SQL执行计划（如是否使用索引、全表扫描风险），提供优化建议（如添加索引、调整JOIN顺序） | `结合实际工作场景（W3的需求访谈）` | *着手中* | [qq843757309](https://github.com/qq843757309)`（非AI检查）` |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 知识库 | 训练AI |  |  |  |
 | <kbd>Code</kbd> | <kbd>Advanced</kbd> | 快捷键支持 |  |  |  |  |
